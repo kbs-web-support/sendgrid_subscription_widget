@@ -1,6 +1,6 @@
 {
   "name": "signup",
-  "version": "23.2.0",
+  "version": "1.0.0",
   "description": "Double opt-in email automation",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "sendgrid-rest": "^2.2.1"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "23.2.0"
   }
 }
